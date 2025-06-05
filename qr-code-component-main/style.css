@@ -28,7 +28,8 @@ body {
     background-color: var(--white);
     border-radius: 1.25em;
     box-shadow:0 1.5625em 1.5625em var(--shadow);
-    padding: 1em 1em 2.5em 1em; 
+    padding: 1em;
+    padding-bottom: 2.5em;
     text-align: center;
     gap: 1.25em; 
   }
