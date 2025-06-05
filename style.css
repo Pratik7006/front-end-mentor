@@ -41,12 +41,12 @@ body {
   }
 
 .card-wrapper .card-title{
-    font-size: 1.3750em;
+    font-size: 1.20em;
     font-weight: bold;
     color: var(--slate-900);
 }
 .card-wrapper .card-description{
-    font-size: 0.9375em;
+    font-size: 0.890em;
     font-weight: normal;
     color: var(--slate-500);
     letter-spacing: 0.0125em;
