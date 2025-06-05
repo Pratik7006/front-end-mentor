@@ -35,8 +35,8 @@ In this project, I practiced:
 
 ## ✍️ Author
 
-- Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/Pratik7006)
-- GitHub: [@yourusername](https://github.com/Pratik7006)
+- Frontend Mentor: [@Pratik7006](https://www.frontendmentor.io/profile/Pratik7006)
+- GitHub: [@Pratik7006](https://github.com/Pratik7006)
 
 ## 🤝 Acknowledgments
 
